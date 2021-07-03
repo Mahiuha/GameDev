@@ -54,7 +54,7 @@ repeat
 until i == 0
 
 --
--- Tables
+-- Tables.
 --
 
 -- sort of like structs or hash tables in C, and like Python dictionaries

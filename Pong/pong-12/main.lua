@@ -1,14 +1,11 @@
 --[[
-    GD50 2018
+    
     Pong Remake
 
     pong-12
     "The Resize Update"
 
     -- Main Program --
-
-    
-    
 
     Originally programmed by Atari in 1972. Features two
     paddles, controlled by players, with the goal of getting

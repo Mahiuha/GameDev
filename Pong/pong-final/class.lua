@@ -16,7 +16,6 @@ shall not be used in advertising or otherwise to promote the sale, use or
 other dealings in this Software without prior written authorization.
 
 
-
 ]]--
 local function include_helper(to, from, seen)
 	if from == nil then

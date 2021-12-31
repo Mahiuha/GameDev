@@ -4,7 +4,7 @@
 
     -- Ball Class --
 
-    Author: Colton Ogden
+    Author: Joseph Mahiuha
 
     Represents a ball which will bounce back and forth between paddles
     and walls until it passes a left or right boundary of the screen,

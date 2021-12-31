@@ -8,7 +8,7 @@
     -- Main Program --
 
     Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    
 
     Originally programmed by Atari in 1972. Features two
     paddles, controlled by players, with the goal of getting

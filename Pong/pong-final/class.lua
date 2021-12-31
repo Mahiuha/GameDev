@@ -1,5 +1,5 @@
 --[[
-Copyright (c) 2020-2021 Joseph Mahiuha
+
 
 ]]--
 local function include_helper(to, from, seen)

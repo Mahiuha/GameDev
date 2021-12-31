@@ -1,5 +1,4 @@
 --[[
-    GD50 2018
     Pong Remake
 
     -- Ball Class --

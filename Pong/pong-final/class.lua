@@ -2,7 +2,6 @@
 Copyright (c) 2020-2021 Joseph Mahiuha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
 
 ]]--
 local function include_helper(to, from, seen)

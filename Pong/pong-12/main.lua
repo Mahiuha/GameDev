@@ -15,7 +15,7 @@
     the original Pong machines or the Atari 2600 in terms of
     resolution, though in widescreen (16:9) so it looks nicer on 
     modern systems.
-]]
+]]--
 
 -- push is a library that will allow us to draw our game at a virtual
 -- resolution, instead of however large our window is; used to provide

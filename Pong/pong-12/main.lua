@@ -7,7 +7,7 @@
 
     -- Main Program --
 
-    Author: Colton Ogden
+    
     
 
     Originally programmed by Atari in 1972. Features two

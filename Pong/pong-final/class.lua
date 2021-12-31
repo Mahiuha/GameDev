@@ -11,7 +11,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-Except as contained in this notice, the name(s) of the above copyright holders
+
 
 ]]--
 local function include_helper(to, from, seen)

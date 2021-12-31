@@ -1,10 +1,9 @@
 --[[
-    GD50 2018
     Pong Remake
 
     -- Paddle Class --
 
-    Author: Colton Ogden
+    Author: Joseph Mahiuha
 
     Represents a paddle that can move up and down. Used in the main
     program to deflect the ball back toward the opponent.
